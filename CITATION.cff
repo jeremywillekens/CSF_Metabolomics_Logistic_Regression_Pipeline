@@ -9,7 +9,7 @@ version: "1.0.0"
 date-released: "2025-02-23"
 license: "MIT"
 repository-code: "https://github.com/jeremywillekens/CSF_Metabolomics_Logistic_Regression_Pipeline"
-doi:
+doi: 10.5281/zenodo.17693235
 keywords:
   - metabolomics
   - logistic regression
@@ -18,3 +18,4 @@ keywords:
   - cross-validation
   - feature selection
   - machine learning
+
