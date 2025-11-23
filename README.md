@@ -152,7 +152,7 @@ Python version: **3.10+ recommended**.
 
 If you use this code in your research, please cite:
 
-> **[Zenodo DOI will be added here once generated]**
+> 10.5281/zenodo.17693235
 
 ---
 
@@ -171,3 +171,4 @@ Email: *jeremy.willekens@hotmail.fr*
 
 This project is licensed under the MIT License.  
 See the `LICENSE` file for details.
+
