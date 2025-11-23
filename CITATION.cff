@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "CSF Metabolomics Logistic Regression Pipeline"
+message: "If you use this code in your research, please cite the repository as follows:"
+authors:
+  - family-names: Willekens
+    given-names: Jeremy
+    orcid: "https://orcid.org/0000-0001-8960-3710"
+version: "1.0.0"
+date-released: "2025-02-23"
+license: "MIT"
+repository-code: "https://github.com/jeremywillekens/CSF_Metabolomics_Logistic_Regression_Pipeline"
+doi:
+keywords:
+  - metabolomics
+  - logistic regression
+  - CSF
+  - pediatric oncology
+  - cross-validation
+  - feature selection
+  - machine learning
